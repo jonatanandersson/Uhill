@@ -11,6 +11,20 @@
     "href": "index.html",
     "title": "UHILL",
     "section": "",
-    "text": "This is the website of UHILL.\nAccess our databases:\nSwedish Labour History Database"
+    "text": "Welcome to the website of UHILL.\nAccess our databases:\nSwedish Labour History Database"
+  },
+  {
+    "objectID": "published.html",
+    "href": "published.html",
+    "title": "Published papers by UHILL researchers",
+    "section": "",
+    "text": "Ericsson, J., & Molinder, J. (2020). \"Economic Growth and the Development of Real Wages: Swedish Construction Workers' Wages in Comparative Perspective, 1831–1900\", The Journal of Economic History, 80(3): 813–852. Open access at journal, Earlier WP."
+  },
+  {
+    "objectID": "working.html",
+    "href": "working.html",
+    "title": "Working papers",
+    "section": "",
+    "text": "Andersson J., Castañeda Garza D., & Skoglund W., “The Sonoran Land Grab Development of Wealth in 19th century Sonora”."
   }
 ]
