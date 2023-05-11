@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "UHILL"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: Research
+        menu:
+        - href: published.qmd
+          text: Published papers
+        - href: working.qmd
+          text: Working papers
+
+format:
+  html:
+    link-external-icon: true
+    link-external-newwindow: true
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+
