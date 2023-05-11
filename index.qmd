@@ -2,7 +2,7 @@
 title: ""
 ---
 
-This is the website of UHILL.
+Welcome to the website of UHILL.
 
 Access our databases:
 
