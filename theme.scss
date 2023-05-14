@@ -4,8 +4,6 @@ $headings-font-weight:  500 !default;
 $navbar-fg:             #C41237 !default;
 $navbar-bg:             #FFFFFF !default;
 $navbar-hl:             #000000 !default;
-$font-family-sans-serif: Gill Sans;
-$font-family-monospace: Berling;
 
 // Colors
 
@@ -29,6 +27,7 @@ $btn-border-radius-sm:        0em !default;
 /*-- scss:rules --*/
   
   // litera is serif by default: revert to san-serif
+
 body {
   font-size: 1rem;
 }

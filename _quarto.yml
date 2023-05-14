@@ -6,7 +6,7 @@ website:
   title: "Uppsala History of Inequality and Labour Lab"
   navbar:
     right:
-      - text: Browse
+      - text: Menu
         menu:
         - href: index.qmd
           text: Home
