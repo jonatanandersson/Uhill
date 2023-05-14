@@ -1,0 +1,73 @@
+---
+title: "Databases"
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<h3 class="card-title">Historical Wealth Inequality Database</h3>
+</div>
+<img src="assets/images/poverty.jpg" class="contain" height="400"/>
+<div class="card-body">
+<p class="card-text">Worldwide estimates of wealth inequality from 10,000 BC to current day.</p>
+<br><br>
+<h5>Features:</h5>
+</div>
+<ul class="list-group list-group-flush">
+<li class="list-group-item">National and local Gini coefficients</li>
+<li class="list-group-item">Multiple definitions of wealth</li>
+</ul>
+<div class="card-body">
+<a href="https://jonatanandersson.shinyapps.io/none/" class="card-link">Access database</a>
+</div>
+</div>
+
+::: 
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<h3 class="card-title">Swedish Labour History Database</h3>
+</div>
+<img src="assets/images/stonebreakers.jpg" class="contain" height="400"/>
+<div class="card-body">
+<p class="card-text">Statistics on employment, labour conflicts, unions, and wages in Swedish history.</p>
+<br><br>
+<h5>Features:</h5>
+</div>
+<ul class="list-group list-group-flush">
+<li class="list-group-item">National-, county-, and industry-level data</li>
+<li class="list-group-item">Download figures</li>
+</ul>
+<div class="card-body">
+<a href="https://jonatanandersson.shinyapps.io/LabourHistorySite/" class="card-link">Access database</a>
+</div>
+</div>
+
+::: 
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<h3 class="card-title">Research databases</h3>
+</div>
+<img src="assets/images/database.jpg" class="contain"/>
+<div class="card-body">
+<p class="card-text">Niche databases related to labour history and history of wealth inequality.</p>
+<br><br>
+<h5>Features:</h5>
+</div>
+<div class="card-body">
+</div>
+</div>
+
+:::
+
+::: 
+

@@ -3,25 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "UHILL"
+  title: "Uppsala History of Inequality and Labour Lab"
   navbar:
     right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - text: Research
+      - text: Browse
         menu:
+        - href: index.qmd
+          text: Home
+        - href: about.qmd
+          text: About
         - href: published.qmd
           text: Published papers
         - href: working.qmd
           text: Working papers
+        - href: databases.qmd
+          text: Databases
 
 format:
   html:
     link-external-icon: true
     link-external-newwindow: true
-    theme: litera
-    css: styles.css
+    theme: [simplex, theme.scss]
     toc: true
 
 editor: visual
