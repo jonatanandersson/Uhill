@@ -8,7 +8,7 @@ comments: false
 <div class="card mb-2">
 <div class="card-body">
 <h5 class="card-title">About</h5>
-<p class="card-text">A collaboration between social scientists researching historical inequality and labour markets.</p>
+<p class="card-text">UHILL is a quantitatively oriented research lab at the Department of Economic History at Uppsala University focusing on labour history and development of wealth inequality in the long run.</p>
 <a href="about.qmd" class="btn btn-success stretched-link">Read more</a>
 </div>
 </div>
@@ -18,7 +18,7 @@ comments: false
 <div class="card mb-2">
 <div class="card-body">
 <h5 class="card-title">Publications</h5>
-<p class="card-text">Read our articles.</p>
+<p class="card-text">Find our published work.</p>
 <a href="published.qmd" class="btn btn-warning stretched-link">Published papers</a>
 </div>
 </div>
@@ -28,7 +28,7 @@ comments: false
 <div class="card mb-2">
 <div class="card-body">
 <h5 class="card-title">Working papers</h5>
-<p class="card-text">Read our articles.</p>
+<p class="card-text">Access our working papers.</p>
 <a href="working.qmd" class="btn btn-danger stretched-link">Working papers</a>
 </div>
 </div>

@@ -1,0 +1,16 @@
+---
+title: "Contact"
+toc: false
+---
+
+### Janitor
+
+<html>
+<body>
+
+<p>Jonatan Andersson, Uppsala University</p>
+
+<p><a href="mailto:jonatan.andersson@ekhist.uu.se">Send email</a></p>
+
+</body>
+</html>
