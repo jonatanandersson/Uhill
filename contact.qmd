@@ -10,7 +10,7 @@ toc: false
 
 <p>Jonatan Andersson, Uppsala University</p>
 
-<p><a href="mailto:jonatan.andersson@ekhist.uu.se">Send email</a></p>
+<p> Email: <a href="mailto:jonatan.andersson@ekhist.uu.se">jonatan.andersson@ekhist.uu.se</a></p>
 
 </body>
 </html>

@@ -19,7 +19,7 @@ toc: false
 </div>
 <ul class="list-group list-group-flush">
 <li class="list-group-item">National and local Gini coefficients</li>
-<li class="list-group-item">Multiple measures of wealth</li>
+<li class="list-group-item">Multiple definitions of wealth</li>
 </ul>
 <div class="card-body">
 <a href="https://jonatanandersson.shinyapps.io/none/" class="card-link">Access database</a>

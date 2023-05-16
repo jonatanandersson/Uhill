@@ -8,21 +8,20 @@ $navbar-hl:             #000000 !default;
 // Colors
 
 $red:    #c41237 !default;
-$green:  #007b35 !default;
-$blue:   #4550e0 !default;
-$yellow: #ffc107 !default;
+$pink:   #e29896 !default;
+$yellow: #f3eed9 !default;
+$blue:   #798897 !default;
   
 $success:       $red !default;
-$warning:       $green !default;
-$danger:        $blue !default;
-$info:          $yellow !default;
+$warning:       $pink !default;
+$danger:        $yellow !default;
+$info:          $blue !default;
 
 
 // Button styling
-$btn-border-radius:           0em !default;
+$btn-border-radius:           1em !default;
 $btn-border-radius-lg:        0em !default;
 $btn-border-radius-sm:        0em !default;
-
 
 /*-- scss:rules --*/
   
@@ -71,12 +70,15 @@ font-weight: 700;
 }
 
 .card {
-  border-radius: 0;
+  border-color: #798897;
 }
 
 .card h5 {
   font-weight: 700;
+  border-color: #798897;
+  background-color: #FFFFFF;
 }
+
 
 div.quarto-about-trestles .about-entity .about-link {
   border-radius: 0;

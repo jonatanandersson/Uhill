@@ -6,10 +6,18 @@ website:
   title: "Uppsala History of Inequality and Labour Lab"
   navbar:
     right:
+      - text: Menu
+        menu:
         - href: index.qmd
           text: Home
-        - href: contact.qmd
-          text: Contact
+        - href: about.qmd
+          text: About
+        - href: published.qmd
+          text: Published papers
+        - href: working.qmd
+          text: Working papers
+        - href: databases.qmd
+          text: Databases
 
 format:
   html:
